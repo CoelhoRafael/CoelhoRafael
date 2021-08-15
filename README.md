@@ -1,4 +1,4 @@
-### HEllo!!!👋
+### Hello World!!!👋
 
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning JAVA and Angular 
